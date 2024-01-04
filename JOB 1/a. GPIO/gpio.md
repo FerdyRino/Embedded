@@ -1,4 +1,4 @@
-![rangkaian](https://github.com/FerdyRino/Embedded/assets/151800680/f4990fc0-3ad6-4269-9f73-95cf18884436)# A. GPIO
+# A. GPIO
 
 ## 1. LED Blink
 
