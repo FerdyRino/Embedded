@@ -5,13 +5,14 @@
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
-![rangkaian](https://github.com/FerdyRino/SistemEmbedded/assets/151800680/f44e5c7a-d751-4187-97a3-05ebef8b33dc)
+![rangkaian](https://github.com/FerdyRino/Embedded/assets/151800680/52f5e0a3-f8f2-4b98-b07e-0b54cfa54dfa)
+
 
 ### b. Source Code
 
-![code-d-1](https://github.com/FerdyRino/SistemEmbedded/assets/151800680/008f8468-bdd7-4c05-ba2d-c856c3084d29)
+![code-d-1](https://github.com/FerdyRino/Embedded/assets/151800680/ab49dad7-9343-46df-a29a-b7eecdfae923)
 
-![code-d-2](https://github.com/FerdyRino/SistemEmbedded/assets/151800680/a6c1b141-0d35-4c3c-9344-5373acd1461c)
+![code-d-2](https://github.com/FerdyRino/Embedded/assets/151800680/b2fefbf1-087b-4280-89ad-7722a731d899)
 
 
 ### c. Hasil dan Pembahasan
@@ -19,28 +20,40 @@ Percobaan ini mensimulasikan pengambilan data dari sensor Capacitive Soil Moistu
 ##### Tanpa Tanah
 
 
-https://github.com/FerdyRino/SistemEmbedded/assets/151800680/6bdc7ea5-57d5-4222-8480-d1e6284aae40
+https://github.com/FerdyRino/Embedded/assets/151800680/466cd5d0-a361-4ad2-b015-13afb894f693
+
+
+
 
 <br>
 <br>
 
 ##### Tanah Kering
 
-https://github.com/FerdyRino/SistemEmbedded/assets/151800680/721e6e7e-7824-4461-90cb-4f10b54a2534
+
+https://github.com/FerdyRino/Embedded/assets/151800680/707fd31c-a0fb-4bd8-b0e5-c4cae3d22074
+
+
 
 <br>
 <br>
 
 ##### Tanah Medium
 
-https://github.com/FerdyRino/SistemEmbedded/assets/151800680/36a22bc6-a6e8-41aa-9b4d-581a705e291c
+
+https://github.com/FerdyRino/Embedded/assets/151800680/834d0d43-c3cf-46d1-9389-4236ae5a80e7
+
+
 
 <br>
 <br>
 
 ##### Tanah Basah
 
-https://github.com/FerdyRino/SistemEmbedded/assets/151800680/9c8c00c9-bc9a-4be4-a994-09f4348fd6d7
+
+https://github.com/FerdyRino/Embedded/assets/151800680/a706dfff-e565-4245-a8a0-72aa860e9153
+
+
 
 <br>
 <br>
